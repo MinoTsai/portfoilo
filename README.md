@@ -1,3 +1,3 @@
 # portfoilo
-GitHub Page Site ⇒
+GitHub Page Site >>
 https://minotsai.github.io/portfoilo/portfolio.html
